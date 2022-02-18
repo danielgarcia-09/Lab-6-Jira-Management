@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Services.deps.json
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Services.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Services.pdb
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Bl.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Core.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Model.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Bl.pdb
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Core.pdb
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\bin\Debug\netcoreapp3.1\JiraManagement.Model.pdb
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\obj\Debug\netcoreapp3.1\JiraManagement.Services.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\obj\Debug\netcoreapp3.1\JiraManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\obj\Debug\netcoreapp3.1\JiraManagement.Services.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\obj\Debug\netcoreapp3.1\JiraManagement.Services.AssemblyInfo.cs
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\obj\Debug\netcoreapp3.1\JiraManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\obj\Debug\netcoreapp3.1\JiraManagement.Services.csproj.CopyComplete
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\obj\Debug\netcoreapp3.1\JiraManagement.Services.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Services\obj\Debug\netcoreapp3.1\JiraManagement.Services.pdb

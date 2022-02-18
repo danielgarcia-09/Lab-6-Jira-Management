@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\bin\Debug\netcoreapp3.1\JiraManagement.Model.deps.json
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\bin\Debug\netcoreapp3.1\JiraManagement.Model.runtimeconfig.json
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\bin\Debug\netcoreapp3.1\JiraManagement.Model.runtimeconfig.dev.json
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\bin\Debug\netcoreapp3.1\JiraManagement.Model.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\bin\Debug\netcoreapp3.1\JiraManagement.Model.pdb
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\bin\Debug\netcoreapp3.1\JiraManagement.Core.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\bin\Debug\netcoreapp3.1\JiraManagement.Core.pdb
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.AssemblyInfo.cs
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.csproj.CopyComplete
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.pdb
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Model\obj\Debug\netcoreapp3.1\JiraManagement.Model.genruntimeconfig.cache

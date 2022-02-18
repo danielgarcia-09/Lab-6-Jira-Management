@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\bin\Debug\netcoreapp3.1\JiraManagement.Core.deps.json
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\bin\Debug\netcoreapp3.1\JiraManagement.Core.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\bin\Debug\netcoreapp3.1\JiraManagement.Core.pdb
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\obj\Debug\netcoreapp3.1\JiraManagement.Core.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\obj\Debug\netcoreapp3.1\JiraManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\obj\Debug\netcoreapp3.1\JiraManagement.Core.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\obj\Debug\netcoreapp3.1\JiraManagement.Core.AssemblyInfo.cs
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\obj\Debug\netcoreapp3.1\JiraManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\obj\Debug\netcoreapp3.1\JiraManagement.Core.dll
+C:\Users\danie\source\repos\JiraManagement\JiraManagement.Core\obj\Debug\netcoreapp3.1\JiraManagement.Core.pdb

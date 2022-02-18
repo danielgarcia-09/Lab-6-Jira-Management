@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuDfz0sWRIEyH/1pWNX8u0gAAAAACAAAAAAAQZgAAAAEAACAAAABkHryWt8oZZfvtgtrINm28FrmGuF0vYi2lBa5mchg9WQAAAAAOgAAAAAIAACAAAABmGzsGpHqTDLoiRDLClZphKrW8+bHIHzqoV16/r8eWq4AAAAAF6FLPz4+QDzpM8+8qVt3BHzX+w2yPl570y91Mib/Alp0UHk4v4a8zQB4HLMsQo+3wvJ1zg/2IlAeen+KJpr+41rj4ggLbBJw6q4gJ5DyunXOfaPrnhqT/l6FJ7RB7R85yMHzuYGQPSQxG3kLGbqotsPiYYyDdei8D+xLeW5eWV0AAAABLvWEI4uzfPiH/SSPtTNQKb7pbqkFYPmVYWNmMNU1P0VQJcEFhVxTCS+GUefaz9ish3Lw0ZsMYc7ReR2kS9eeJ</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-bn1-147.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2022-02-18T15:14:14.0974378Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>02/17/2022 09:28:11</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/17/2022 11:18:18</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>02/04/2022 11:28:52</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>01/05/2022 11:57:34</publishTime>
+    </File>
+    <File Include="JiraManagement.Bl.dll">
+      <publishTime>02/18/2022 11:11:24</publishTime>
+    </File>
+    <File Include="JiraManagement.Bl.pdb">
+      <publishTime>02/18/2022 11:11:24</publishTime>
+    </File>
+    <File Include="JiraManagement.Core.dll">
+      <publishTime>02/18/2022 11:11:21</publishTime>
+    </File>
+    <File Include="JiraManagement.Core.pdb">
+      <publishTime>02/18/2022 11:11:21</publishTime>
+    </File>
+    <File Include="JiraManagement.deps.json">
+      <publishTime>02/18/2022 11:58:54</publishTime>
+    </File>
+    <File Include="JiraManagement.dll">
+      <publishTime>02/18/2022 11:58:52</publishTime>
+    </File>
+    <File Include="JiraManagement.exe">
+      <publishTime>02/18/2022 11:58:52</publishTime>
+    </File>
+    <File Include="JiraManagement.Model.dll">
+      <publishTime>02/18/2022 11:11:23</publishTime>
+    </File>
+    <File Include="JiraManagement.Model.pdb">
+      <publishTime>02/18/2022 11:11:23</publishTime>
+    </File>
+    <File Include="JiraManagement.pdb">
+      <publishTime>02/18/2022 11:58:52</publishTime>
+    </File>
+    <File Include="JiraManagement.runtimeconfig.json">
+      <publishTime>02/18/2022 11:11:29</publishTime>
+    </File>
+    <File Include="JiraManagement.Services.dll">
+      <publishTime>02/18/2022 11:52:28</publishTime>
+    </File>
+    <File Include="JiraManagement.Services.pdb">
+      <publishTime>02/18/2022 11:52:28</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Cosmos.Client.dll">
+      <publishTime>08/05/2020 17:39:42</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Cosmos.Core.dll">
+      <publishTime>06/18/2019 07:07:06</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Cosmos.Direct.dll">
+      <publishTime>07/27/2020 14:30:22</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Cosmos.Serialization.HybridRow.dll">
+      <publishTime>06/18/2019 07:07:06</publishTime>
+    </File>
+    <File Include="Microsoft.Data.Sqlite.dll">
+      <publishTime>12/15/2021 06:00:40</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>06/17/2020 00:37:52</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>12/15/2021 06:00:02</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Cosmos.dll">
+      <publishTime>12/15/2021 06:00:46</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>12/15/2021 06:00:20</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.InMemory.dll">
+      <publishTime>12/15/2021 06:00:24</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>12/15/2021 06:00:32</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <publishTime>12/15/2021 06:00:44</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>10/22/2021 19:48:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>06/15/2021 15:12:46</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>10/19/2020 14:49:02</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>10/22/2021 19:50:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/22/2021 19:50:40</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 16:14:12</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>04/02/2017 13:46:32</publishTime>
+    </File>
+    <File Include="runtimes/alpine-x64/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 12:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-arm/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 12:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-arm64/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 12:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-armel/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 12:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-mips64/native/libe_sqlite3.so">
+      <publishTime>08/27/2020 14:50:26</publishTime>
+    </File>
+    <File Include="runtimes/linux-musl-x64/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 12:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-x64/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 12:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-x86/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 12:13:28</publishTime>
+    </File>
+    <File Include="runtimes/osx-x64/native/libe_sqlite3.dylib">
+      <publishTime>08/17/2020 11:58:04</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/e_sqlite3.dll">
+      <publishTime>08/17/2020 10:38:30</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/e_sqlite3.dll">
+      <publishTime>08/17/2020 10:38:42</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Cosmos.CRTCompat.dll">
+      <publishTime>07/27/2020 14:30:26</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/e_sqlite3.dll">
+      <publishTime>08/17/2020 10:38:20</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Azure.Cosmos.ServiceInterop.dll">
+      <publishTime>07/27/2020 14:30:26</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/e_sqlite3.dll">
+      <publishTime>08/17/2020 10:38:10</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>05/15/2018 09:29:44</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.batteries_v2.dll">
+      <publishTime>09/03/2020 13:13:26</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.core.dll">
+      <publishTime>09/03/2020 13:13:04</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.nativelibrary.dll">
+      <publishTime>09/03/2020 13:13:02</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <publishTime>09/03/2020 13:13:18</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>09/23/2020 08:47:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>09/23/2020 08:47:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>09/23/2020 08:47:24</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>05/15/2018 09:29:38</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>12/11/2020 22:40:42</publishTime>
+    </File>
+    <File Include="System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 19:40:56</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>05/15/2018 09:29:44</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/18/2022 11:58:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
